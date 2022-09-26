@@ -1,0 +1,47 @@
+body {
+  background-color: #D6E6F2;
+  font-family: 'Outfit', sans-serif;
+  width: 375px;
+}
+
+.preQr {
+  background-color: white;
+  border-radius: 20px;
+  position: absolute;
+  top: 80px;
+  left: 50px;
+  width: 285px;
+  height: 440px;
+}
+
+.image {
+  position: absolute;
+  bottom: 250px;
+  left: 63px;
+}
+
+.imageqr {
+  border-radius: 10px;
+  width: 45%
+}
+
+.improve {
+  margin-top: 300px;
+  margin-left: 25px;
+  margin-right: 25px;
+  font-family: 'Heebo', sans-serif;
+  text-align: center;
+  font-weight: bold;
+  font-size: 19px;
+}
+
+.scan {
+  position: absolute;
+  bottom: 20px;
+  left: 25px;
+  right: 25px;
+  font-family: 'Heebo', sans-serif;
+  text-align: center;
+  color: grey;
+  font-size: 14px;
+}
